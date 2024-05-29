@@ -10,3 +10,8 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 ## MERN- React(TypeScript) + NEST.JS + PostGress/ MongoDB + Node 
+
+
+## 1. git clone https://github.com/muralisamui/vite-project.git
+## 2. npm install
+
